@@ -97,7 +97,7 @@ function App() {
   return (
     <div>
       <Header
-        title="REACT"
+        title="WEB"
         onChangeMode={() => {
           setMode("WELCOME");
         }}
